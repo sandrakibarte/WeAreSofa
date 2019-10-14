@@ -1,0 +1,61 @@
+/*Base*/
+*{
+	margin: 0;
+	padding: 0;
+}
+/*Layout*/
+.logo{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-align: center;
+	font-size: 40pt;
+}
+section p{
+	text-align: center;
+	font-size: 10pt;
+	font-weight: bold;
+	padding: 13px 0;
+}
+.info_about{
+	border-style: double none;
+	border-color: #D3D3D3;
+	border-width: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 48%;
+}
+article{
+	display: inline-block;
+	text-align: left;
+	width: 10%;
+	padding: 12px;
+	max-height: 20%
+}
+main{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	margin-top: 50px;
+}
+.footerText{
+	color: #808080;
+}
+h2{
+	margin-bottom: 5px;
+	vertical-align: middle;
+	font-size: 17pt;
+}
+img.icon{
+	vertical-align: middle;
+}
+.footerLogo{
+	padding-right: 10px;
+}
+
+
+
